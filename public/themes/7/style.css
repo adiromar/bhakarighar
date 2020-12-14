@@ -1,0 +1,35 @@
+/* Pagination CSS */
+.pagination {
+	text-align: left;
+	margin: 50px 0 0 0;
+	display:block;
+}
+.pagination li{
+display: inline-block;
+    padding: 3px 12px;
+    border: 1px solid;
+}
+.pagination .active {
+    background-color: #495057;
+    color: white;
+    font-weight: 500;
+}
+.preview_edit a:hover{
+    color: blue !important;
+    cursor: pointer !important;
+}
+.preview_edit a{
+    color: rgb(56, 120, 180) !important;
+}
+.front-end-form .form-control{
+    color: unset !important;
+}
+.btn_white{
+    color: #fff !important;
+}
+.pro_del_btn{
+    background: #f46b6b;
+    width: 100%;
+    color: #fff;
+    padding: 12px;
+}
